@@ -9,6 +9,7 @@ All system commands
 3. /setgangskin [skin1, skin2, ...]
 4. /invite [username]
 
+There is a system for saving and loading, everything is implemented on files
 ##
 
 Dialogues in Russian
